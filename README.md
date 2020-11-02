@@ -6,7 +6,7 @@ Crear una app que nos permita consultar la API de búsquedas en MercadoLibre y m
 
 ## Tareas
 
-1. Clonar el repo github http://maaroarg.github.com/maraton_react
+1. Clonar el repo github https://github.com/maaroarg/guayerdMaratonReact
 2. Inicializar el proyecto
 3. Armar layput de los componentes (Sólo la parte visual, en el render)
    1. App
@@ -26,7 +26,7 @@ Crear una app que nos permita consultar la API de búsquedas en MercadoLibre y m
 
 ## Mockup (Realizado por expertos en UX)
 
-<Imagen>
+[https://github.com/maaroarg/guayerdMaratonReact/blob/master/mockupGuayerdMELI.png](MockUp Guayerd - MELI)
 
 ## `npm start`
 
@@ -35,4 +35,4 @@ Corre la app en modo desarrollo
 
 ### MELI API
 
-https://developers.mercadolibre.com.ar/es_ar/items-y-busquedas#Obtener-%C3%ADtems-de-una-consulta-de-b%C3%BAsqueda
+[https://developers.mercadolibre.com.ar/es_ar/items-y-busquedas#Obtener-%C3%ADtems-de-una-consulta-de-b%C3%BAsqueda](Documentación MELI API)
