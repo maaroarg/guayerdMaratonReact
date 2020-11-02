@@ -19,7 +19,7 @@ Crear una app que nos permita consultar la API de búsquedas en MercadoLibre y m
 6. Completar componente ResultList. Visualiza los resultados de MELI.
 7. Completar componente ResultItem. Visualiza cada item de resultado.
 8. Completar la interacción entre App/SearchBox/ResulList y MELI API.
-9. Embellecer la app utilizando Bootstrap
+9. Traer por default, una búsqueda del producto "atari 2600" cuando se monta la app
 10. Bonus: Agregar la funcionalidad de favoritos.
     1. Componente FavList (Listar los items favoritos)
     2. Agregar acción "Agregar a Favoritos" en ResultItem
