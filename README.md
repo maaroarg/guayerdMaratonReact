@@ -26,7 +26,7 @@ Crear una app que nos permita consultar la API de búsquedas en MercadoLibre y m
 
 ## Mockup (Realizado por expertos en UX)
 
-[https://github.com/maaroarg/guayerdMaratonReact/blob/master/mockupGuayerdMELI.png](MockUp Guayerd - MELI)
+[MockUp Guayerd - MELI](https://github.com/maaroarg/guayerdMaratonReact/blob/master/mockupGuayerdMELI.png)
 
 ## `npm start`
 
@@ -35,4 +35,4 @@ Corre la app en modo desarrollo
 
 ### MELI API
 
-[https://developers.mercadolibre.com.ar/es_ar/items-y-busquedas#Obtener-%C3%ADtems-de-una-consulta-de-b%C3%BAsqueda](Documentación MELI API)
+[Documentación MELI API](https://developers.mercadolibre.com.ar/es_ar/items-y-busquedas#Obtener-%C3%ADtems-de-una-consulta-de-b%C3%BAsqueda)
